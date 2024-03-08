@@ -40,13 +40,13 @@ Memory: ≥ 1G
 - Online(recommended)
 
     ```shell
-    source <(curl -L https://github.com/trojanpanel/install-script/raw/main/install_script.sh)
+    source <(curl -L https://github.com/tardyxu/install-script/raw/main/install_script.sh)
     ```
 
 - Standalone
 
     ```shell
-    source <(curl -L https://github.com/trojanpanel/install-script/raw/main/install_script_standalone.sh)
+    source <(curl -L https://github.com/tardyxu/install-script/raw/main/install_script_standalone.sh)
     ```
 
 - [Install old version](README_ARCHIVE.md)
